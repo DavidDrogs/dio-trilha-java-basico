@@ -21,5 +21,6 @@ public class TiposVariaveis {
          System.out.println(dataAniversario);
          System.out.println(lote);
          System.out.println(aprovado);
+         
     }
 }
